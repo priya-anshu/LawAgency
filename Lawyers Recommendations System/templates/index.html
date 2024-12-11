@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lawyer Recommendation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        label, input {
+            margin: 5px;
+            padding: 5px;
+        }
+        #result {
+            margin-top: 20px;
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Find the Best Lawyer</h1>
+    <form id="recommendForm">
+        <label for="specialization">Specialization:</label>
+        <input type="text" id="specialization" name="specialization" required><br><br>
+
+        <label for="experience">Experience (years):</label>
+        <input type="number" id="experience" name="experience" required><br><br>
+
+        <label for="fees">Budget (fees):</label>
+        <input type="number" id="fees" name="fees" required><br><br>
+
+        <button type="submit">Get Recommendations</button>
+    </form>
+    <h2>Recommendations:</h2>
+    <div id="result"></div>
+
+    <script>
+        document.getElementById('recommendForm').addEventListener('submit', async (e) => {
+            e.preventDefault();
+    
+            // Collect form data
+            const formData = new FormData(e.target);
+            const data = {
+                specialization: formData.get('specialization'),
+                experience: formData.get('experience'),
+                fees: formData.get('fees')
+            };
+    
+            // Send POST request to Flask server
+            const response = await fetch('/recommend', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)  // Send as JSON
+            });
+    
+            // Get the result from the response
+            const result = await response.json();
+    
+            // Display the recommendations
+            const resultDiv = document.getElementById('result');
+            if (result.recommendations && result.recommendations.length > 0) {
+                let recommendations = '<ul>';
+                result.recommendations.forEach(lawyer => {
+                    recommendations += `
+                        <li>
+                            <strong>Name:</strong> ${lawyer.name} <br>
+                            <strong>Specialization:</strong> ${lawyer.specialization} <br>
+                            <strong>Experience:</strong> ${lawyer.experience} years <br>
+                            <strong>Fees:</strong> ₹${lawyer.fees} <br>
+                            <strong>Contact:</strong> ${lawyer.contact_number} <br>
+                            <strong>Email:</strong> ${lawyer.email} <br>
+                        </li>
+                    `;
+                });
+                recommendations += '</ul>';
+                resultDiv.innerHTML = recommendations;
+            } else {
+                resultDiv.innerHTML = 'No recommendations found.';
+            }
+        });
+    </script>
+    
+</body>
+</html>

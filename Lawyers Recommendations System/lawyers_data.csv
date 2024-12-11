@@ -1,0 +1,101 @@
+lawyer_id,name,specialization,experience,fees,contact_number,email
+1,Emily Jones,Entertainment Law,10,10256,+91-7269727547,emily.jones@legalpro.net
+2,John Garcia,Labour Law,1,14783,+91-9740933102,john.garcia@legalpro.net
+3,Michael Williams,Corporate Law,26,19847,+91-8331976452,michael.williams@lawyerconnect.io
+4,David Brown,Corporate Law,9,3601,+91-9144847609,david.brown@legalpro.net
+5,James Clark,Sports Law,36,6423,+91-9316991367,james.clark@lawmail.com
+6,James Jones,Medical Law,5,2086,+91-8656753855,james.jones@legalpro.net
+7,Isabella Brown,Entertainment Law,13,4231,+91-9881527082,isabella.brown@legalpro.net
+8,Olivia Johnson,Labour Law,36,5111,+91-8481047120,olivia.johnson@lawmail.com
+9,Olivia Williams,Human Rights Law,27,11029,+91-7379778529,olivia.williams@legalpro.net
+10,Emily Jones,Medical Law,22,8385,+91-8219754225,emily.jones@legalpro.net
+11,John Smith,Entertainment Law,2,19651,+91-8433945312,john.smith@legalpro.net
+12,James Williams,Maritime Law,37,13874,+91-9656653262,james.williams@attorneyhub.org
+13,John Brown,Immigration Law,31,17319,+91-9620446650,john.brown@attorneyhub.org
+14,David Lopez,Maritime Law,19,19012,+91-8501996780,david.lopez@lawmail.com
+15,John Williams,Human Rights Law,36,10835,+91-7306347635,john.williams@lawyerconnect.io
+16,John Brown,Family Law,35,18253,+91-9915433154,john.brown@lawyerconnect.io
+17,James Lopez,Criminal Law,27,9506,+91-8228220643,james.lopez@lawmail.com
+18,Sophia Williams,Sports Law,2,13460,+91-7365894957,sophia.williams@attorneyhub.org
+19,Olivia Clark,Corporate Law,38,10702,+91-9340940746,olivia.clark@lawmail.com
+20,Robert Jones,Banking Law,15,15991,+91-7882063363,robert.jones@attorneyhub.org
+21,Ava Lopez,Labour Law,13,11713,+91-7392208055,ava.lopez@legalpro.net
+22,David Williams,Criminal Law,18,12028,+91-7065977486,david.williams@lawyerconnect.io
+23,John Williams,Sports Law,32,6713,+91-9272149492,john.williams@lawyerconnect.io
+24,Sophia Smith,Human Rights Law,31,2634,+91-7228363526,sophia.smith@lawmail.com
+25,Michael Clark,Criminal Law,3,5609,+91-9078832938,michael.clark@lawyerconnect.io
+26,Robert Garcia,Corporate Law,14,3966,+91-7716404844,robert.garcia@attorneyhub.org
+27,Sophia Davis,Environmental Law,16,11367,+91-9064321704,sophia.davis@legalpro.net
+28,Olivia Miller,Environmental Law,25,6797,+91-7692290138,olivia.miller@lawyerconnect.io
+29,Olivia Smith,Immigration Law,6,19193,+91-8643332064,olivia.smith@lawyerconnect.io
+30,Michael Lopez,Environmental Law,39,11014,+91-9683922664,michael.lopez@lawyerconnect.io
+31,James Lopez,Environmental Law,14,19539,+91-8303667216,james.lopez@legalpro.net
+32,Olivia Clark,Cyber Law,22,18630,+91-7847350952,olivia.clark@attorneyhub.org
+33,Isabella Johnson,Human Rights Law,30,3845,+91-7069404847,isabella.johnson@lawmail.com
+34,Sophia Johnson,Environmental Law,8,3873,+91-7162961587,sophia.johnson@lawyerconnect.io
+35,Isabella Clark,Entertainment Law,32,3586,+91-8628022245,isabella.clark@lawyerconnect.io
+36,Olivia Lopez,Maritime Law,27,2534,+91-9608192287,olivia.lopez@lawmail.com
+37,Robert Lopez,Real Estate Law,23,6114,+91-9425301804,robert.lopez@attorneyhub.org
+38,Isabella Garcia,Family Law,17,11304,+91-8142130309,isabella.garcia@legalpro.net
+39,James Lopez,Environmental Law,20,6280,+91-8613243246,james.lopez@attorneyhub.org
+40,Sophia Brown,Human Rights Law,29,16882,+91-7054487150,sophia.brown@lawmail.com
+41,Sophia Brown,Maritime Law,3,10930,+91-9811125473,sophia.brown@lawyerconnect.io
+42,Ava Miller,Immigration Law,35,5448,+91-9666215362,ava.miller@lawyerconnect.io
+43,Robert Clark,Criminal Law,15,13893,+91-8310134839,robert.clark@lawmail.com
+44,John Jones,Sports Law,13,12114,+91-9569619301,john.jones@lawyerconnect.io
+45,Olivia Garcia,Entertainment Law,24,3944,+91-8855349380,olivia.garcia@lawyerconnect.io
+46,Sophia Lopez,Family Law,36,15923,+91-9931762893,sophia.lopez@lawyerconnect.io
+47,Isabella Lopez,Sports Law,33,2442,+91-8263763046,isabella.lopez@attorneyhub.org
+48,John Williams,Medical Law,27,16997,+91-7898028181,john.williams@lawmail.com
+49,Sophia Smith,Family Law,12,10931,+91-8001979687,sophia.smith@attorneyhub.org
+50,Emily Brown,Entertainment Law,24,14770,+91-8707745111,emily.brown@legalpro.net
+51,Robert Jones,Banking Law,31,9919,+91-9412675650,robert.jones@lawyerconnect.io
+52,Sophia Johnson,Entertainment Law,14,10962,+91-9986956391,sophia.johnson@lawmail.com
+53,David Lopez,Medical Law,33,5559,+91-9322599446,david.lopez@attorneyhub.org
+54,James Garcia,Maritime Law,32,16340,+91-8334210122,james.garcia@attorneyhub.org
+55,Sophia Davis,Environmental Law,27,3759,+91-7448771595,sophia.davis@lawyerconnect.io
+56,Michael Garcia,Intellectual Property,40,19142,+91-8266938531,michael.garcia@attorneyhub.org
+57,Michael Clark,Real Estate Law,8,15424,+91-7516211964,michael.clark@lawmail.com
+58,Emily Williams,Real Estate Law,29,12984,+91-9195006900,emily.williams@legalpro.net
+59,John Garcia,Human Rights Law,3,16232,+91-7948560759,john.garcia@lawmail.com
+60,Ava Davis,Cyber Law,11,12704,+91-9497741325,ava.davis@attorneyhub.org
+61,James Lopez,Environmental Law,39,5469,+91-7385795146,james.lopez@lawmail.com
+62,Ava Jones,Family Law,19,2970,+91-7795110673,ava.jones@attorneyhub.org
+63,Emily Miller,Tax Law,26,4260,+91-9823954664,emily.miller@lawyerconnect.io
+64,James Davis,Medical Law,28,15389,+91-7254499622,james.davis@attorneyhub.org
+65,Michael Davis,Tax Law,19,5990,+91-8646218155,michael.davis@attorneyhub.org
+66,Sophia Jones,Corporate Law,11,13644,+91-8728928769,sophia.jones@attorneyhub.org
+67,Emily Lopez,Corporate Law,9,15070,+91-9481176900,emily.lopez@lawyerconnect.io
+68,Michael Lopez,Banking Law,32,15554,+91-8527694600,michael.lopez@attorneyhub.org
+69,Emily Williams,Tax Law,20,4441,+91-8965785413,emily.williams@lawyerconnect.io
+70,Sophia Garcia,Labour Law,37,17264,+91-7237834035,sophia.garcia@lawmail.com
+71,Michael Lopez,Banking Law,6,3966,+91-7141789810,michael.lopez@lawmail.com
+72,David Williams,Cyber Law,15,3105,+91-9966104211,david.williams@attorneyhub.org
+73,Sophia Clark,Cyber Law,21,7672,+91-7809796473,sophia.clark@attorneyhub.org
+74,Robert Jones,Real Estate Law,31,5390,+91-9555157009,robert.jones@lawmail.com
+75,Emily Williams,Tax Law,31,17438,+91-7570440319,emily.williams@legalpro.net
+76,David Johnson,Cyber Law,18,11680,+91-8356228290,david.johnson@attorneyhub.org
+77,Olivia Davis,Corporate Law,19,8566,+91-8676087694,olivia.davis@attorneyhub.org
+78,John Brown,Environmental Law,31,3455,+91-9122335679,john.brown@attorneyhub.org
+79,James Johnson,Tax Law,10,14660,+91-9890390922,james.johnson@lawmail.com
+80,Isabella Williams,Medical Law,23,16987,+91-8110015950,isabella.williams@legalpro.net
+81,James Clark,Sports Law,16,8832,+91-8929479378,james.clark@attorneyhub.org
+82,David Williams,Tax Law,32,7138,+91-8721703134,david.williams@attorneyhub.org
+83,Sophia Lopez,Banking Law,20,15874,+91-8864786217,sophia.lopez@legalpro.net
+84,Emily Brown,Cyber Law,23,5101,+91-8028228304,emily.brown@lawmail.com
+85,Emily Davis,Real Estate Law,21,12006,+91-8367030485,emily.davis@legalpro.net
+86,Michael Lopez,Human Rights Law,37,18994,+91-7087689030,michael.lopez@lawyerconnect.io
+87,Ava Brown,Criminal Law,21,19117,+91-8713587948,ava.brown@lawmail.com
+88,Olivia Smith,Criminal Law,20,10383,+91-7196278079,olivia.smith@legalpro.net
+89,Sophia Davis,Labour Law,19,6776,+91-9426246956,sophia.davis@legalpro.net
+90,Emily Clark,Sports Law,4,7951,+91-7153931732,emily.clark@legalpro.net
+91,John Williams,Entertainment Law,21,19393,+91-9006449113,john.williams@lawyerconnect.io
+92,Michael Garcia,Real Estate Law,15,7492,+91-8116859024,michael.garcia@lawyerconnect.io
+93,Robert Lopez,Criminal Law,4,16494,+91-7840771885,robert.lopez@lawyerconnect.io
+94,Sophia Clark,Cyber Law,12,8328,+91-9219020222,sophia.clark@lawyerconnect.io
+95,Isabella Jones,Sports Law,8,9609,+91-9015881849,isabella.jones@lawmail.com
+96,John Clark,Criminal Law,30,13349,+91-9761945925,john.clark@lawmail.com
+97,James Clark,Tax Law,22,13313,+91-8480047600,james.clark@lawyerconnect.io
+98,Robert Clark,Human Rights Law,40,7384,+91-8433465982,robert.clark@legalpro.net
+99,Olivia Brown,Entertainment Law,4,13231,+91-8354820403,olivia.brown@lawmail.com
+100,Robert Lopez,Criminal Law,30,3103,+91-7144019484,robert.lopez@legalpro.net
